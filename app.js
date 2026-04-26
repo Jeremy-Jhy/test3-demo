@@ -3,7 +3,8 @@
   "2_optimality": 180,
   "3_search_order_MRV_DH": 18,
   "4_dedup_redundancy": 54,
-  "5_tabucol": 5
+  "5_tabucol": 5,
+  "6_small_scale_demo": 27
 };
 
 const LABELS = {
@@ -11,7 +12,8 @@ const LABELS = {
   "2_optimality": "Optimality",
   "3_search_order_MRV_DH": "SearchOrder(MRV+DH)",
   "4_dedup_redundancy": "Dedup",
-  "5_tabucol": "Tabucol"
+  "5_tabucol": "Tabucol",
+  "6_small_scale_demo": "Small-Scale Demo"
 };
 
 const methodSelect = document.getElementById("methodSelect");
