@@ -1,8 +1,8 @@
 ﻿const COUNTS = {
-  "1_feasibility": 17,
+  "1_feasibility": 47,
   "2_optimality": 180,
   "3_search_order_MRV_DH": 18,
-  "4_dedup_redundancy": 18,
+  "4_dedup_redundancy": 54,
   "5_tabucol": 5
 };
 
@@ -115,4 +115,13 @@ window.addEventListener("keydown", (e) => {
 });
 
 update();
+
+
+
+
+
+
+
+
+
 
